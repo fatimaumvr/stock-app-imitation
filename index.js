@@ -17,4 +17,4 @@ timeEl.textContent=`Time: ${time}`
 
 setInterval(() => {
     render()
-}, 1000);
+}, 1000)
